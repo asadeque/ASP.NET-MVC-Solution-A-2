@@ -1,0 +1,34 @@
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\03b - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\dredgedorlok\Desktop\DEV\15 - C# Web Dev Techniques\04a - SampleMVCProject\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+E:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+E:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+E:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+E:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+E:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+K:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+K:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+K:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+K:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+K:\conestoga2\MS_Web\classwork\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\msadeque8063\Documents\04a - SampleMVCProject0209\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\Users\msadeque8063\Documents\04a - SampleMVCProject0209\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\msadeque8063\Documents\04a - SampleMVCProject0209\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\Users\msadeque8063\Documents\04a - SampleMVCProject0209\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
+C:\Users\msadeque8063\Documents\04a - SampleMVCProject0209\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\MVCSite_PROG2230_A2_7268063\SampleMVCSite_PROG2230_A2_7268063\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.dll
+C:\MVCSite_PROG2230_A2_7268063\SampleMVCSite_PROG2230_A2_7268063\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\bin\Debug\SampleMVCSite.Contracts.pdb
+C:\MVCSite_PROG2230_A2_7268063\SampleMVCSite_PROG2230_A2_7268063\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.csprojResolveAssemblyReference.cache
+C:\MVCSite_PROG2230_A2_7268063\SampleMVCSite_PROG2230_A2_7268063\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.dll
+C:\MVCSite_PROG2230_A2_7268063\SampleMVCSite_PROG2230_A2_7268063\04a - SampleMVCProject0209\SampleMVCSite\SampleMVCSite.Contracts\obj\Debug\SampleMVCSite.Contracts.pdb
